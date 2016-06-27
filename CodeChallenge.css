@@ -30,4 +30,9 @@ li {
 	text-align: center;
 	color: white;
 }
+article {
+	background-color: white;
+	margin-top: 5px;
+	padding: 10px 15px;
+}
 
