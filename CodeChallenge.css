@@ -10,7 +10,7 @@ html {
 h1{
 	text-align: center;
 }
-#bottom {
+.bottom {
 	text-align: center;
 }
 footer{
@@ -25,12 +25,12 @@ nav{
 	margin-top: 1px;
 	width: 100%;
 }
-li {
+li a {
 	display: inline;
 	text-align: center;
 	color: white;
 }
-tagline {
+.tagline {
 	text-align: center;
 }
 
