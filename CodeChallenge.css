@@ -35,9 +35,15 @@ h2 {
 h3 {
 	text-align: center;
 }
+.video {
+	text-align: center;
+}
 article {
 	background-color: white;
 	margin-top: 5px;
 	padding: 10px 15px;
+}
+article p {
+	text-align: center;
 }
 
