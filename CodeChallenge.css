@@ -27,10 +27,12 @@ nav{
 }
 li a {
 	display: inline;
-	text-align: center;
 	color: white;
 }
-.tagline {
+h2 {
+	text-align: center;
+}
+h3 {
 	text-align: center;
 }
 
